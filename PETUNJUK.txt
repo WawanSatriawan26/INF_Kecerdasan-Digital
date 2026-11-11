@@ -1,0 +1,26 @@
+MPI KECERDASAN DIGITAL — MTsN 1 Alor
+
+ISI PAKET
+js/app.js
+js/data.js
+
+CARA MENGGUNAKAN
+1. Cadangkan file lama.
+2. Ganti app.js dan data.js pada folder js proyek Anda.
+3. Tetap gunakan index.html dan css/style.css lama.
+4. Buka index.html lalu tekan Ctrl+F5 untuk memuat ulang.
+
+app.js menyesuaikan judul tab, header, dan footer saat halaman dimuat.
+Materi terdiri atas A. Kecerdasan Digital (4 topik) dan
+B. Mengembangkan Kecerdasan Digital (2 topik), sesuai urutan permintaan.
+Ejaan judul diperbaiki tanpa mengubah cakupan submateri.
+Rangkuman tetap sebelum Refleksi. Progres disimpan terpisah dari materi lama.
+
+Pemeriksaan: sintaks kedua file, struktur konten, rute materi, keluaran
+submateri, indeks jawaban, dan konsistensi bank soal berhasil.
+Uji browser otomatis terhalang pembatasan proses pada lingkungan pengujian.
+Tampilan dengan CSS asli belum diverifikasi karena CSS tidak dilampirkan.
+
+RUJUKAN PEMETAAN AREA DAN TINGKAT
+https://www.dqinstitute.org/global-standards-2022/
+Contoh, aktivitas, dan soal disusun untuk konteks belajar sekolah.
